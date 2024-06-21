@@ -5,4 +5,4 @@ Meu primeiro commit!!
 
 Detalhe do commit um!
 
-meu segundo cmmmit
+meu segundo commit
