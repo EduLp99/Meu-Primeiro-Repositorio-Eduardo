@@ -9,3 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
+var show: String = "Realizando meu primeiro teste com projeto real!"
+
